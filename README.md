@@ -1,2 +1,2 @@
 # 1st-project
-Author : Aliyan
+Author : Aliyan (1st-project)
